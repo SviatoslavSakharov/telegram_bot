@@ -1,0 +1,7 @@
+ccxt==1.36.63
+numpy==1.19.2
+plotly==4.11.0
+pyTelegramBotAPI==3.7.3
+kaleido==0.0.3.post1
+
+
