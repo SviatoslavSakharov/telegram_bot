@@ -8,7 +8,7 @@ class Worker:
 
 users = {}
 
-#token = '1318199756:AAFCsYqmlV6o_-PwSvLPTQC7i6ekSqWvMnY'
+token = '1318199756:AAFCsYqmlV6o_-PwSvLPTQC7i6ekSqWvMnY'
 bot = telebot.TeleBot(token)
 
 @bot.message_handler(commands = ['chart'])
